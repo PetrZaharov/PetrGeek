@@ -1,0 +1,97 @@
+html,
+body {
+    margin: 0 auto;
+    background: #ccc;
+}
+
+.container {
+    width: 1280px;
+    height: 3186px;
+    margin: 0 auto;
+}
+
+.productName {
+    height: 323px;
+    background: #445162;
+}
+
+h1 {
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 60px;
+    font-weight: 400;
+    text-align: left;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+    padding-top: 50px;
+    padding-left: 50px;
+    float: left;
+    position: absolute;
+
+}
+
+li {
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+    text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+    list-style: url(../image/check%20icon.png);
+}
+
+ul {
+    position: relative;
+    left: 50px;
+    top: -50px;
+}
+
+.img {
+    background-color: #ffffff;
+    width: 469px;
+    height: 214px;
+    position: relative;
+    left: 760px;
+    top: 50px;
+
+}
+
+.aboutProduct {
+    height: 345px;
+    margin-top: -20px;
+}
+
+h2 {
+    margin-top: 49px;
+    margin-left: 50px;
+    font-family: Arial;
+    color: #445161;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+}
+
+p {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: Arial;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.imgAboutProduct {
+    background-color: #445161;
+    width: 430px;
+    height: 245px;
+    position: absolute;
+    margin-left: 800px;
+    margin-top: 50px;
+}
+
+article {
+    float: left
+}
